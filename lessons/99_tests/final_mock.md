@@ -1,0 +1,66 @@
+# Final Mock Exam (LPIC-2 style)
+
+- Duration: 90 minutes
+- Questions: 60
+- Format: MCQ + fill-in + practical
+
+1. <Question aligned with LPIC-2 objectives>
+2. <Question aligned with LPIC-2 objectives>
+3. <Question aligned with LPIC-2 objectives>
+4. <Question aligned with LPIC-2 objectives>
+5. <Question aligned with LPIC-2 objectives>
+6. <Question aligned with LPIC-2 objectives>
+7. <Question aligned with LPIC-2 objectives>
+8. <Question aligned with LPIC-2 objectives>
+9. <Question aligned with LPIC-2 objectives>
+10. <Question aligned with LPIC-2 objectives>
+11. <Question aligned with LPIC-2 objectives>
+12. <Question aligned with LPIC-2 objectives>
+13. <Question aligned with LPIC-2 objectives>
+14. <Question aligned with LPIC-2 objectives>
+15. <Question aligned with LPIC-2 objectives>
+16. <Question aligned with LPIC-2 objectives>
+17. <Question aligned with LPIC-2 objectives>
+18. <Question aligned with LPIC-2 objectives>
+19. <Question aligned with LPIC-2 objectives>
+20. <Question aligned with LPIC-2 objectives>
+21. <Question aligned with LPIC-2 objectives>
+22. <Question aligned with LPIC-2 objectives>
+23. <Question aligned with LPIC-2 objectives>
+24. <Question aligned with LPIC-2 objectives>
+25. <Question aligned with LPIC-2 objectives>
+26. <Question aligned with LPIC-2 objectives>
+27. <Question aligned with LPIC-2 objectives>
+28. <Question aligned with LPIC-2 objectives>
+29. <Question aligned with LPIC-2 objectives>
+30. <Question aligned with LPIC-2 objectives>
+31. <Question aligned with LPIC-2 objectives>
+32. <Question aligned with LPIC-2 objectives>
+33. <Question aligned with LPIC-2 objectives>
+34. <Question aligned with LPIC-2 objectives>
+35. <Question aligned with LPIC-2 objectives>
+36. <Question aligned with LPIC-2 objectives>
+37. <Question aligned with LPIC-2 objectives>
+38. <Question aligned with LPIC-2 objectives>
+39. <Question aligned with LPIC-2 objectives>
+40. <Question aligned with LPIC-2 objectives>
+41. <Question aligned with LPIC-2 objectives>
+42. <Question aligned with LPIC-2 objectives>
+43. <Question aligned with LPIC-2 objectives>
+44. <Question aligned with LPIC-2 objectives>
+45. <Question aligned with LPIC-2 objectives>
+46. <Question aligned with LPIC-2 objectives>
+47. <Question aligned with LPIC-2 objectives>
+48. <Question aligned with LPIC-2 objectives>
+49. <Question aligned with LPIC-2 objectives>
+50. <Question aligned with LPIC-2 objectives>
+51. <Question aligned with LPIC-2 objectives>
+52. <Question aligned with LPIC-2 objectives>
+53. <Question aligned with LPIC-2 objectives>
+54. <Question aligned with LPIC-2 objectives>
+55. <Question aligned with LPIC-2 objectives>
+56. <Question aligned with LPIC-2 objectives>
+57. <Question aligned with LPIC-2 objectives>
+58. <Question aligned with LPIC-2 objectives>
+59. <Question aligned with LPIC-2 objectives>
+60. <Question aligned with LPIC-2 objectives>

@@ -1,0 +1,29 @@
+name: Build PDFs
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install pandoc and LaTeX minimal
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base
+      - name: Build lab PDFs
+        run: |
+          mkdir -p build/pdf
+          find lessons -name "*.md" -maxdepth 3 -print0 | while IFS= read -r -d '' f; do
+            out="build/pdf/${f%.md}.pdf"
+            mkdir -p "$(dirname "$out")"
+            pandoc "$f" -o "$out" --from gfm --pdf-engine=pdflatex
+          done
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdfs
+          path: build/pdf

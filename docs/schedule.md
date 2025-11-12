@@ -1,0 +1,37 @@
+# Schedule
+
+- Lesson 01: 01 Capacity Planning I — Performance basics, vmstat/iostat/sar/top.
+- Lesson 02: 02 Capacity Planning II — Trend analysis, bottlenecks, iotop/lsof/sar.
+- Lesson 03: 03 Linux Kernel I — Modules lifecycle: lsmod/modprobe/rmmod, modinfo.
+- Lesson 04: 04 Linux Kernel II — Kernel build workflow: menuconfig, bzImage, initramfs.
+- Lesson 05: 05 System Startup I — systemd targets, journalctl, rescue/emergency.
+- Lesson 06: 06 Bootloaders I — GRUB2 BIOS/UEFI, efibootmgr, update-grub.
+- Lesson 07: 07 Bootloaders II — PXE/SYSLINUX basics.
+- Lesson 08: 08 Filesystems I — mount/fstab/UUID, swap.
+- Lesson 09: 09 Filesystems II — fsck, tune2fs, xfs_repair, SMART.
+- Lesson 10: 10 Filesystems III — AutoFS, loop devices, LUKS.
+- Lesson 11: 11 Storage I (RAID) — mdadm RAID0/1/5, /proc/mdstat.
+- Lesson 12: 12 Storage II (iSCSI/NVMe) — iscsiadm, targetcli, nvme-cli, sdparm/hdparm.
+- Lesson 13: 13 Storage III (LVM) — pv/vg/lv create/extend/shrink, snapshots.
+- Lesson 14: 14 Networking I — ip addr/link/route, IPv6 basics.
+- Lesson 15: 15 Networking II — ss/tcpdump/nmap, multi-homed.
+- Lesson 16: 16 Networking III — mtr/traceroute troubleshooting.
+- Lesson 17: 17 System Maintenance I — Build from source: configure/make/install.
+- Lesson 18: 18 System Maintenance II — Backups: tar/rsync/dd, restore.
+- Lesson 19: 19 System Maintenance III — Cron/timers, wall/write, MOTD.
+- Lesson 20: 20 DNS I — BIND install, caching resolver, dig/host.
+- Lesson 21: 21 DNS II — Zone files: SOA/NS/A/AAAA/MX/PTR; named-checkzone.
+- Lesson 22: 22 DNS III — Security: ACL, TSIG, chroot, DNSSEC overview.
+- Lesson 23: 23 Web Services I — Apache/Nginx, vhosts, basic hardening.
+- Lesson 24: 24 Web Services II — TLS with openssl, HSTS, cipher suites.
+- Lesson 25: 25 Web Services III — Reverse proxy & caching: Nginx/Squid.
+- Lesson 26: 26 File Sharing I — Samba: smb.conf, usershares, smbclient.
+- Lesson 27: 27 File Sharing II — NFSv4 exports, idmap, mount options.
+- Lesson 28: 28 Network Client Mgmt — DHCP server/client, LDAP basics, PAM/SSSD.
+- Lesson 29: 29 Mail Services I — Postfix core, virtual domains, queues.
+- Lesson 30: 30 Mail Services II — Dovecot POP/IMAP, auth/TLS, Sieve/procmail.
+- Lesson 31: 31 System Security I — Routing/NAT, nftables/iptables policies.
+- Lesson 32: 32 System Security II + Review — SSH hardening, VPN basics, course recap.
+
+- Midterm Test #1: after Lesson 17 (30 minutes)
+- Midterm Test #2: after Lesson 32 (30 minutes)
